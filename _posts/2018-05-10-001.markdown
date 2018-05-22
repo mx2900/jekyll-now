@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "테스트 첫 페이지"
+title:  "테스트 첫 페이지 and soso"
 date:   2018-05-10 17:03:26 +0900
 categories: jekyll update
 ---
